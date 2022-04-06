@@ -1,0 +1,31 @@
+
+bory{
+    font: 25px arial, sans-serif;
+}
+.navbar {
+    background-color: limegreen;
+}
+
+.quem-somos{
+    background-color: cornflowerblue;
+    color:white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: white;
+    color: grey;
+}   
+
+.serviços{
+    background-color: orangered;
+    color: black;
+}
+.bg-footer{
+    background-color: black;
+    color:white
+}
